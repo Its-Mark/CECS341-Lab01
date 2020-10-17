@@ -1,0 +1,13 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+[ERROR]::                20000 @Line 49 : AND OPERATION FAILED
+[ERROR]::                60000 @Line 71 : OR OPERATION FAILED
+[ERROR]::               100000 @Line 101 : FIRST TEST OF ADD OPERATION FAILED
+[ERROR]::               140000 @Line 130 : SECOND TEST OF ADD OPERATION FAILED
+[ERROR]::               180000 @Line 158 : FIRST TEST OF SUB OPERATION FAILED
+[ERROR]::               220000 @Line 187 : SECOND TEST OF SUB OPERATION FAILED
+[ERROR]::               260000 @Line 209 : SLT OPERATION FAILED
+[ERROR]::               300000 @Line 231 : NOR OPERATION FAILED
+The number of correct test cases are:           0
+The total grade of this strudent is:           0
+$finish called at time : 360 ns : File "D:/Users/Mark Garcia/Desktop/CECS341/Lab01/tb_top.v" Line 259
